@@ -1,9 +1,12 @@
 ### Hi there 👋
+<p align = 'center'>
+<img src="https://user-images.githubusercontent.com/98370735/202030595-68f981e2-6ba4-4eb6-b76f-2710ed158b0a.png">
+</p>
 
 <!--
 **lianlc/lianlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
