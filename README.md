@@ -26,7 +26,8 @@ Here are some ideas to get you started:-->
 ---
 ### Estadísticas de GitHub:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lianlc&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=lianlc&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lianlc&theme=dracula)
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lianlc)](https://github.com/anuraghazra/github-readme-stats) -->
 ---
